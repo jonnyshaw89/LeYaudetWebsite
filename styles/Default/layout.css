@@ -1,0 +1,30 @@
+#page{
+	width:800px;
+	padding: 0px;
+	height: auto;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+}
+
+#content {
+	width:580px;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 2px;
+	height: auto;
+	z-index: auto;
+	float: right;
+	margin-top: 15px;
+}
+
+#menu {
+	width:215px;
+	margin:0 580px 0 0px;
+	background-color:#EDEDED;
+}
+.footerHeader {
+	margin:0px;
+	clear:both;
+}
